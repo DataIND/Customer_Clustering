@@ -15,6 +15,14 @@ The dataset consists of the following columns:
   -Country: Country of the customer
 
 
+RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. RFM Analysis is a marketing analysis tool used to identify quantitatively which customers are the best ones by examining:
+
+- how recently a customer has purchased (Recency),
+- how often they purchase (Frequency), and
+- how much the customer spends (Monetary).
+It is a data-driven customer segmentation technique that allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior, and thus significantly increases the chances of sales. These RFM metrics are important indicators of a customer’s behavior because frequency and monetary value affect a customer’s lifetime value, and recency affects retention, a measure of engagement.
+
+
 Analysis Techniques :- 
 
 1] Time Series Forecasting :- 
