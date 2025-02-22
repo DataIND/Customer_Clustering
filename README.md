@@ -16,7 +16,8 @@ The dataset consists of the following columns:
 
 
 Analysis Techniques :- 
-1] Time Series Forecasting
+
+1] Time Series Forecasting :- 
   -Observed: The actual sales data over time.
   -Trend: The long-term progression of the series, showing the overall direction of sales.
   -Seasonal: The repeating patterns or cycles in the sales data, indicating seasonal effects.
