@@ -18,10 +18,10 @@ The dataset consists of the following columns:
 Analysis Techniques :- 
 
 1] Time Series Forecasting :- 
-  -Observed: The actual sales data over time.
-  -Trend: The long-term progression of the series, showing the overall direction of sales.
-  -Seasonal: The repeating patterns or cycles in the sales data, indicating seasonal effects.
-  -Residual: The remaining noise after removing the trend and seasonal components, which can help identify anomalies.
+  - Observed:- The actual sales data over time.
+  - Trend:- The long-term progression of the series, showing the overall direction of sales.
+  - Seasonal:- The repeating patterns or cycles in the sales data, indicating seasonal effects.
+  - Residual:- The remaining noise after removing the trend and seasonal components, which can help identify anomalies.
 
 2] KMeans Clustering Analysis :- 
   - Data Preparation :- We start by selecting the relevant features for clustering: Recency, Frequency, and Monetary value (though it appears "Frequency" is duplicated in your code). We then scale these features      to ensure that they contribute equally to the distance calculations in KMeans.
